@@ -2,6 +2,12 @@
 
 一个使用 Zig 开发的跨平台代码编辑器，支持大文件、语法高亮、多标签页等高级功能。
 
+## 仓库信息
+
+- **GitHub**: [https://github.com/pcmaclk/ze](https://github.com/pcmaclk/ze)
+- **语言**: Zig 0.16.0-dev
+- **许可**: MIT (待添加)
+
 ## 当前状态
 
 ### 已完成
