@@ -13,11 +13,13 @@
 ### 已完成
 - ✅ 项目结构创建
 - ✅ Rope 数据结构实现（基础版本）
-- ✅ 编码检测模块（BOM、UTF-8、UTF-16、ASCII）
+- ✅ 编码检测模块（BOM、UTF-8、UTF-16、UTF-32、GBK、Big5、Shift-JIS、Latin-1）
 - ✅ TextBuffer 文本缓冲区
+- ✅ Viewport 虚拟滚动系统
+- ✅ LazyLoader 懒加载系统
 
 ### 进行中
-- 🔄 修复 build.zig 以兼容 Zig 0.16
+- 🔄 Windows 平台实现（计划中）
 
 ### 待实现
 - ⏳ 语法高亮（tree-sitter 集成）
